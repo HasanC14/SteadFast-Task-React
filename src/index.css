@@ -1,3 +1,26 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Montserrat:wght@500&family=Roboto+Condensed&display=swap");
+* {
+  font-family: "Montserrat", sans-serif;
+}
+.bg-prime {
+  background-color: #ef4444;
+}
+
+.bg-footer {
+  background-color: #f8f5f2;
+}
+.text-prime {
+  color: #ef4444;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
