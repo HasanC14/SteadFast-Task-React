@@ -1,4 +1,3 @@
-import React from "react";
 import dish1 from "/images/f1.avif";
 import dish2 from "/images/f2.avif";
 import dish3 from "/images/f3.avif";
